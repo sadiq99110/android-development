@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Android Development</string>
+    <string name="dev_name">Android App Development(Jetpack Compose)</string>
 </resources>
